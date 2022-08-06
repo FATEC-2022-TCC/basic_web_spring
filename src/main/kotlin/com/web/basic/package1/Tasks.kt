@@ -1,5 +1,6 @@
-package com.web.basic
+package com.web.basic.package1
 
+import com.web.basic.getLogger
 import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Component
 import java.text.SimpleDateFormat
